@@ -11,19 +11,26 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r load data, include = FALSE}
-
-### Quick Analysis Tool ###
-### For: KE-PI M&E Team ###
-### Prepared by: Jan Korevaar (jan.korevaar@oneacrefund.org) ###
-### Last Edited: 05-OCt-2016
+```{r set variables, include = FALSE}
 
 # clear environment and screen
 rm(list = ls())
 cat("\014")
 
+ql_replace_var <- c()
+setwd("D:/Google Drive/02. Market Access/Market Access Research/Harvest Quality Survey/Results/1. Data")
+
+data <- read.csv("data.csv", sep = "," , header = T, stringsAsFactors = F)
+data$treatment <- "Farmers"
+data$consent <- TRUE
+
+question_labels <- read.csv("question_labels_fin.csv", sep = "," , header = T, stringsAsFactors = F)
+
+```
+
+```{r load data, include = FALSE, warnings = FALSE}
+
 # libraries
-options(java.parameters = "-Xmx8000m")
 
 library(tidyr)
 library(printr)
@@ -33,27 +40,9 @@ library(ggplot2)
 library(lubridate)
 library(GGally)
 library(dplyr)
-library(xlsx)
-library(openxlsx)
 library(lsmeans)
 library(broom)
 library(stringr)
-
-
-# setw
-
-setwd("D:/Google Drive/02. Market Access/Market Access Research/Harvest Quality Survey/Results/1. Data")
-
-
-#### load data ####
-#### ----------------------------------------------------------------------------------
-
-
-## post-harvest survey
-data <- read.csv("data.csv", sep = "," , header = T, stringsAsFactors = F)
-
-question_labels <- read.csv("question_labels_fin.csv", sep = "," , header = T, stringsAsFactors = F)
-
 
 
 #### functions ####
@@ -439,14 +428,7 @@ ql_replace <- function(data, rep.vars, qst_labels){
 #### question replace ####
 #### ----------------------------------------------------------------------------------
 
-data_f <- ql_replace(data, c(24,26,27,29,30,31), question_labels)
-
-data_f$Treatment <- "Farmers"
-
-data_f$Consent <- TRUE
-
-data_f[16,11] <- NA
-
+data_f <- ql_replace(data, ql_replace_var, question_labels)
 ```
 
 ```{r question loop, echo = FALSE, results = 'asis'}
