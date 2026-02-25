@@ -4,70 +4,70 @@
 
 ## 1. The Quiet Shore
 
-The tide retreats across the sand,
-leaving shells like open hands,
-each one a secret, smooth and small,
-a whisper that outlasts the squall.
+Where broken water meets the land,
+the sea reclaims its scattered gifts,
+a ribbon drawn through cooling sand
+as evening settles and daylight shifts.
 
-The gulls cry out above the foam,
-the sea has never learned of home,
-yet here I stand at water's edge,
-and feel the pull of some old pledge.
+The cormorants hold still as stone,
+the waves dissolve in silver thread,
+and standing here, I am less alone
+among the things that go unsaid.
 
 ---
 
 ## 2. November Light
 
-November hangs its pale gold light
-through branches stripped of summer's green,
-the world made spare, the air made bright,
-and everything is sharp and clean.
+The maples let their last leaves fall
+like letters dropped without a name,
+the afternoon grows thin and tall,
+and nothing looks the way it came.
 
-A crow calls once across the field,
-the silence swallows back the sound,
-the frost has nothing more to yield,
-and beauty rests on frozen ground.
+A hawk turns slow above the hill,
+below it, everything lies plain,
+the year has reached its careful still
+before the dark returns again.
 
 ---
 
 ## 3. City Rain
 
-The city hums beneath the rain,
-each streetlamp ringed in silver blur,
-the taxis splash through every lane,
-and strangers walk without a stir.
+The gutters run with borrowed sky,
+the neon bleeds across the stone,
+an umbrella turns as people pass by,
+and each one carries what they own.
 
-The café windows fog with warmth,
-a small place carved from all the cold,
-outside the evening drifts due north,
-and every story goes untold.
+A doorway holds a woman dry,
+a child points up at something bright,
+the rain does not ask who or why,
+just falls, and softens up the night.
 
 ---
 
 ## 4. Roots
 
-A tree does not apologize
-for reaching toward the distant sun,
-it does not question or revise
-the growing that has been begun.
+The oak takes nothing on its word,
+it tests each inch of clay and grit,
+it does not wait to be assured
+that it belongs where it is lit.
 
-Below the soil, the roots press deep
-through stone and clay and years of dark,
-the tree does not need light to keep
-the fire of its quiet spark.
+The storm will come and strip the sky,
+the branches creak and hold and bend,
+but what endures is what runs dry
+of doubt — the roots that never end.
 
 ---
 
 ## 5. Threshold
 
-There is a moment before sleep
-when the mind lets go its grip,
-when all the promises you keep
-loosen, like a tired fist.
+Before the dark behind the eyes
+becomes the dark behind the mind,
+there is a softening, a rise
+and fall, a loosening of the bind.
 
-The day dissolves to something soft,
-the noise retreats to somewhere far,
-and you are lifted, briefly, aloft
-beneath a single, steady star.
+The ceiling blurs, the body slows,
+the day becomes a distant shore,
+and something in you finally knows
+it does not need to keep the score.
 
 ---
